@@ -3,7 +3,7 @@
 [discord.orbitmines.com](https://discord.orbitmines.com)
 
 ```sh
-git clone git@github.com:orbitmines/orbitmines.com.git # Public-facing website
+git clone git@github.com:orbitmines/orbitmines.com.git # Website to the old internet
 git clone git@github.com:orbitmines/ray.git # Universal Language repo
-git clone git@github.com:orbitmines/archive.git # Large archive of tangents & history
+git clone git@github.com:orbitmines/archive.git # Archive of tangents & history
 ```
