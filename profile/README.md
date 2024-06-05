@@ -1,6 +1,9 @@
 <div align="center">
 
-![logo](https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png">
+  <img alt="OrbitMines Logo" src="https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png" width="50%" height="50%">
+</picture>
 
 #### [What is this?, What is OrbitMines?, What are Rays?](https://github.com/orbitmines/orbitmines.com?tab=readme-ov-file#what-is-this-what-is-orbitmines-what-are-rays)
 
