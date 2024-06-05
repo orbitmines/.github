@@ -1,8 +1,14 @@
-[What is this?, What is OrbitMines?, What are Rays?](https://github.com/orbitmines/orbitmines.com?tab=readme-ov-file#what-is-this-what-is-orbitmines-what-are-rays)
+<div align="center">
 
-[discord.orbitmines.com](https://discord.orbitmines.com)
+![logo](orbitmines.logo.3000x1000.png)
 
-```sh
+#### [What is this?, What is OrbitMines?, What are Rays?](https://github.com/orbitmines/orbitmines.com?tab=readme-ov-file#what-is-this-what-is-orbitmines-what-are-rays)
+
+[![OrbitMines Discord](https://img.shields.io/discord/1055502602365845534.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.orbitmines.com)
+
+</div>
+
+```bash
 git clone git@github.com:orbitmines/orbitmines.com.git # Website to the old internet
 git clone git@github.com:orbitmines/ray.git # Universal Language repo
 git clone git@github.com:orbitmines/library.git # A library for Intercommunication between Languages
