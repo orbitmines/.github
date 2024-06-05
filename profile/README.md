@@ -5,7 +5,7 @@
   <img alt="OrbitMines Logo" src="https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png" width="50%" height="50%">
 </picture>
 
-#### [What is this?, What is OrbitMines?, What are Rays?](https://github.com/orbitmines/orbitmines.com?tab=readme-ov-file#what-is-this-what-is-orbitmines-what-are-rays)
+#### [What is this?, What is OrbitMines?, What are Rays?](https://github.com/orbitmines/ray?tab=readme-ov-file#what-is-this-what-is-orbitmines-what-are-rays)
 
 [![OrbitMines Discord](https://img.shields.io/discord/1055502602365845534.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.orbitmines.com)
 
